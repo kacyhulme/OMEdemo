@@ -1,0 +1,15 @@
+{
+  "name": "omedemo",
+  "version": "1.0.0",
+  "description": "omedemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kacy hulme",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2"
+  }
+}
