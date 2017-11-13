@@ -1,0 +1,387 @@
+#leftnavigation
+/* Flashback: */
+font-size: 18px;
+color: #595959;
+letter-spacing: 0;
+/* selection: */
+background: #002D37;
+border-radius: 8px;
+/* Performance: */
+font-size: 18px;
+color: #02BAE4;
+letter-spacing: 0;
+/* Remediation: */
+font-size: 18px;
+color: #595959;
+letter-spacing: 0;
+/* Overview: */
+font-size: 18px;
+color: #595959;
+letter-spacing: 0;
+/* Resources: */
+font-size: 18px;
+color: #595959;
+letter-spacing: 0;
+
+
+#leftnavselector 
+/* background Mask: */
+border: 2px solid #BFBFBF;
+border-radius: 100px;
+/* selected: */
+background: #BFBFBF;
+/* vert divider: */
+background: #BFBFBF;
+/* vert divider: */
+background: #BFBFBF;
+
+
+
+#tabswitcher
+/* background Mask: */
+border: 2px solid #BFBFBF;
+border-radius: 100px;
+/* selected: */
+background: #BFBFBF;
+/* vert divider: */
+background: #BFBFBF;
+/* vert divider: */
+background: #BFBFBF;
+/* Bar Completion: */
+font-size: 14px;
+color: #FFFFFF;
+letter-spacing: 0;
+/* Tile Completion: */
+font-size: 14px;
+color: #A6A6A6;
+letter-spacing: 0;
+/* Tile Accuracy: */
+font-size: 14px;
+color: #A6A6A6;
+letter-spacing: 0;
+/* Bar Accuracy: */
+font-size: 14px;
+color: #A6A6A6;
+letter-spacing: 0;
+
+#EEckground: #FFFFFF;
+box-shadow: 0 0 2px 0 rgba(0,0,0,0.20);
+/* header background: */
+background: #FFFFFF;
+box-shadow: 0 0 2px 0 rgba(0,0,0,0.20);
+/* Question Progress &: */
+font-size: 18px;
+color: #595959;
+letter-spacing: 0;
+/* 1: */
+border: 0 solid #E5E5E5;
+/* 2: */
+border: 0 solid #E5E5E5;
+/* 3: */
+border: 0 solid #E5E5E5;
+/* 4: */
+border: 0 solid #E5E5E5;
+/* 5: */
+border: 0 solid #E5E5E5;
+/* Rectangle 6: */
+transform: rotate(-180deg);
+background: #E5E5E5;
+border-radius: 4px;
+/* Rectangle 6: */
+background: #02BAE4;
+border-radius: 4px;
+/* Rectangle 6: */
+transform: rotate(-180deg);
+background: #E5E5E5;
+border-radius: 4px;
+/* Rectangle 6: */
+background: #02BAE4;
+border-radius: 4px;
+/* Rectangle 6: */
+transform: rotate(-180deg);
+background: #E5E5E5;
+border-radius: 4px;
+/* Rectangle 6: */
+background: #02BAE4;
+border-radius: 4px;
+/* Rectangle 6: */
+transform: rotate(-180deg);
+background: #E5E5E5;
+border-radius: 4px;
+/* Rectangle 6: */
+background: #02BAE4;
+border-radius: 4px;
+/* 10: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 20: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 30: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 0: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* Pediatrics: */
+font-size: 14px;
+color: #595959;
+letter-spacing: 0;
+line-height: 24px;
+/* Gynecology: */
+font-size: 14px;
+color: #595959;
+letter-spacing: 0;
+line-height: 24px;
+/* Surgery: Subspecialt: */
+font-size: 14px;
+color: #595959;
+letter-spacing: 0;
+line-height: 24px;
+/* Gatroenterology: */
+font-size: 14px;
+color: #595959;
+letter-spacing: 0;
+line-height: 24px;
+/* 40: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 50: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 60: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 70: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 80: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 90: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* 100: */
+font-size: 12px;
+color: #A6A6A6;
+letter-spacing: 0.14px;
+/* Legend 4: */
+font-size: 11px;
+color: #485465;
+letter-spacing: -0.07px;
+/* Oval 39 Copy 2: */
+background: #2C82BE;
+/* Legend 3 Copy: */
+font-size: 11px;
+color: #485465;
+letter-spacing: -0.07px;
+/* Oval 39 Copy 5: */
+background: #CFE3F0;
+/* Legend 2: */
+font-size: 11px;
+color: #485465;
+letter-spacing: -0.07px;
+/* Oval 39 Copy: */
+background: #53A8E2;
+/* Legend 1 Copy: */
+font-size: 11px;
+color: #485465;
+letter-spacing: -0.07px;
+/* Oval 39 Copy 3: */
+background: #76DDFB;
+
+#reviewhistory
+/* background: */
+background: #FFFFFF;
+box-shadow: 0 0 2px 0 rgba(0,0,0,0.20);
+/* header background: */
+background: #FFFFFF;
+box-shadow: 0 0 2px 0 rgba(0,0,0,0.20);
+/* Module Review Histor: */
+font-size: 18px;
+color: #595959;
+letter-spacing: 0;
+/* divider: */
+background: #E5E5E5;
+/* Mar 27, 2017: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 44: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 9%: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Completed: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Review: */
+font-size: 18px;
+color: #02BAE4;
+letter-spacing: 0;
+/* divider: */
+background: #E5E5E5;
+/* Mar 3, 2017: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 10: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 20%: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Completed: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Review: */
+font-size: 18px;
+color: #02BAE4;
+letter-spacing: 0;
+/* divider: */
+background: #E5E5E5;
+/* Feb 12, 2017: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 39: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 30%: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Completed: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Review: */
+font-size: 18px;
+color: #02BAE4;
+letter-spacing: 0;
+/* divider: */
+background: #E5E5E5;
+/* Feb 10, 2017: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 20: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 88%: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Completed: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Review: */
+font-size: 18px;
+color: #02BAE4;
+letter-spacing: 0;
+/* divider: */
+background: #E5E5E5;
+/* Dec 18, 2016: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 3: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 60%: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Completed: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Review: */
+font-size: 18px;
+color: #02BAE4;
+letter-spacing: 0;
+/* divider: */
+background: #E5E5E5;
+/* Dec 1, 2016: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 23: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* 44%: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Completed: */
+font-size: 14px;
+color: #4A4A4A;
+letter-spacing: 0;
+/* Review: */
+font-size: 18px;
+color: #02BAE4;
+letter-spacing: 0;
+/* divider: */
+background: #E5E5E5;
+/* Date: */
+font-size: 18px;
+color: #4A4A4A;
+letter-spacing: 0;
+line-height: 24px;
+/* # of questions: */
+font-size: 18px;
+color: #4A4A4A;
+letter-spacing: 0;
+line-height: 24px;
+/* Accuracy: */
+font-size: 18px;
+color: #4A4A4A;
+letter-spacing: 0;
+line-height: 24px;
+/* Status: */
+font-size: 18px;
+color: #4A4A4A;
+letter-spacing: 0;
+line-height: 24px;
+
+#header
+/* Module Review Histor: */
+font-family: .AppleSystemUIFont;
+font-size: 18px;
+color: #595959;
+letter-spacing: 0;
+
+
+/* header background: */
+background: #FFFFFF;
+box-shadow: 0 0 2px 0 rgba(0,0,0,0.20);
+
+/* background: */
+background: #FFFFFF;
+box-shadow: 0 0 2px 0 rgba(0,0,0,0.20);
+
+
+
+

@@ -1,0 +1,120 @@
+@import 'variables';
+@import 'mixins';
+
+html, body {
+  height: 100%;
+  background-color: $body-background !important;
+}
+.container {
+  height: 100%;
+  background-color: $body-background;
+}
+
+/*Bootstrap Overrides*/
+#leftnav {
+  margin: 25px 0 0 0;
+  font-size: $font-size-lg;
+  font-family: $font-family;
+  font-weight: 300;
+  .nav.nav-tabs.nav-stacked > li > a {
+    color: $leftnav-text;
+    background-color: $leftnav-background;
+    &:hover, &:active, &:focus {
+      border: none;
+      border-bottom: none;
+      color: $leftnav-text-active;
+    }
+  }
+
+  .nav.nav-tabs.nav-stacked > li.active {
+    a {
+      color: $leftnav-text-active;
+      background-color: $leftnav-background-active;
+      border: none !important;
+      @include border-radius(8px);
+    }
+  }
+
+  .nav.nav-tabs {
+    border-bottom: none;
+  }
+}
+
+#main {
+  margin: 25px 0 0 0;
+  font-family: $font-family;
+  font-weight: 300;
+  .section {
+    font-family: $font-family;
+    font-weight: 300;
+    background: $white;
+    border: 1px solid $subtle-gray;
+    margin: 0 0 25px 0;
+    color: $leftnav-text;
+    font-size: $font-size-sm;
+    min-height: 350px;
+    .header { 
+      margin-bottom: 25px;
+      padding-top: 12px;
+      height: 50px;
+      border-bottom: 1px solid $subtle-gray;
+      font-size: $font-size-lg;
+    }
+    .tabswitcher {
+      margin-top: 85px;
+    }
+    .nav.nav-tabs {
+      color: $white;
+      border-bottom: none;
+      margin-bottom: 45px;
+      width: 100%;
+      text-align: center;
+      li {
+        float: none;
+        display: inline-block;
+        a {
+          margin: 0 -2px;
+          padding-right: 30px;
+          padding-left: 30px;
+          border: 1px solid $medium-gray;
+          color: $medium-gray;
+          @include border-radius(0);
+        }
+      }
+      li:first-of-type > a {
+        border-top-left-radius: 25px;
+        border-bottom-left-radius:25px;
+      }
+      li:last-of-type > a {
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+      }
+      li.active {
+        a {
+          background-color: $medium-gray;
+          color: $white;
+        }
+      }
+    }
+    table {
+      th {
+        font-size: 20px;
+        font-weight: 400;
+      }
+      .progress {
+        -webkit-box-shadow: none;
+        background-color: transparent;
+        height: 15px;
+        margin-bottom: 0px;
+      }
+      .progress-bar {
+        @include border-radius(4px);
+      }
+      span {
+        padding: 0 30px;
+        font-size: 12px;
+        color: $subtle-gray;
+      }
+    }
+  }
+}
