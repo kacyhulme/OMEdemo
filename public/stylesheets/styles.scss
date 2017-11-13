@@ -108,6 +108,7 @@ html, body {
         margin-bottom: 0px;
       }
       .progress-bar {
+        background-color: $leftnav-text-active;
         @include border-radius(4px);
       }
       span {

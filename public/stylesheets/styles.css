@@ -1,3 +1,6 @@
+/*colors*/
+/*standard sizing*/
+/*fonts*/
 html, body {
   height: 100%;
   background-color: #F6F6F6 !important; }
@@ -88,6 +91,7 @@ html, body {
       height: 15px;
       margin-bottom: 0px; }
     #main .section table .progress-bar {
+      background-color: #02BAE4;
       -webkit-border-radius: 4px;
       -moz-border-radius: 4px;
       -ms-border-radius: 4px;
